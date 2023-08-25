@@ -1,0 +1,18 @@
+2023-08-24 19:40:40,372.acquainted.INFO ==================================================
+2023-08-24 19:40:40,372.acquainted.INFO Today is 2023-08-24 at 07:40 PM
+2023-08-24 19:40:40,403.acquainted.INFO Running on: nt Windows 10
+2023-08-24 19:40:40,403.acquainted.INFO Python version:  3.11.4
+2023-08-24 19:40:40,403.acquainted.INFO Python path: C:\Users\lucim\AppData\Local\Programs\Python\Python311
+2023-08-24 19:40:40,404.acquainted.INFO Working dir: C:\Users\lucim\Data Fundamentals Repo\datafun-01-getting-started
+2023-08-24 19:40:40,404.acquainted.INFO ==================================================
+2023-08-24 19:40:40,404.acquainted.INFO Name: Luci McDaniel 
+2023-08-24 19:40:40,404.acquainted.INFO State: Missouri
+2023-08-24 19:40:40,404.acquainted.INFO Country: USA
+2023-08-24 19:40:40,404.acquainted.INFO Pet count: 2
+2023-08-24 19:40:40,405.acquainted.INFO Double the pet count: 4
+2023-08-24 19:40:40,405.acquainted.INFO Skill count: 42
+2023-08-24 19:40:40,405.acquainted.INFO Temperature: 92.9
+2023-08-24 19:40:40,405.acquainted.INFO Pet weight: 260.6
+2023-08-24 19:40:40,406.acquainted.INFO Has dog: True
+2023-08-24 19:40:40,406.acquainted.INFO Likes analytics: True
+2023-08-24 19:40:40,406.acquainted.INFO Likes Python: True
