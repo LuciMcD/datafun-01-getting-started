@@ -47,8 +47,11 @@ if number2 > maximum:
 if number3 > maximum:
     maximum = number3
 
+#find the average
+average = (number1 + number2 + number3) / 3
 
-
+#find the product
+product = number1 * number2 * number3
 
 
 # log the results
@@ -56,6 +59,8 @@ logger.info(f"The sum of the integers is {sum}.")
 logger.info(f"The minimum of the integers is {minimum}.")
 logger.info(f"The maximum of the intgers is {maximum}.")
 logger.info(f"The range of integers is {minimum} - {maximum}.")
+logger.info(f"The average of the integers is {average}.")
+logger.info(f"The product of the integers is {product}.")
 logger.info("Thanks for participating!")
 
 
