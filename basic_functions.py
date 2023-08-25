@@ -78,7 +78,7 @@ print()
 logger.info(f"message = {message}")
 
 # Ask the user if they want to see built-in functions
-response = input("Would you like to see all the built-in functions? (y/n) ").lower()
+response = input("Would you like to see all the built-in functions? (y/n/idk) ").lower()
 logger.info(f"response = {response}")
 print(f"You said {response}!")
 print(f"{hint}")
@@ -90,6 +90,18 @@ if response == "y":
     print()
     print("There's a lot of built-in functions ready to use!")
     print("We'll learn more about them later.")
+    print()
+
+if response == "n":
+    print()
+    print("Are you sure? I think you meant to type y.")
+    print()
+
+if response == "idk":
+    print()
+    print("I think you would like to see all the built-in functions. This would help you out so much when using Python.")
+    print()
+    print("Try Again.")
     print()
 
 # TODO: Run with different responses n, y, other...
