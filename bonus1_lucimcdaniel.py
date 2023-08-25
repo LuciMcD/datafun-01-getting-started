@@ -19,7 +19,7 @@ pi = math.pi
 
 # get 3 numbers from the user and calculate sum, min, max, and range.
 # Use \n to add a blank new line to the terminal before we ask for input
-print('Enter 3 integers and we will find the sum, min, max, and range')
+print('Enter 3 unique integers and we will find the sum, min, max, and range')
 
 number1 = int(input('Enter your first integer: '))
 number2 = int(input('Enter your second integer: '))
